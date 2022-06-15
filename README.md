@@ -1,2 +1,2 @@
 # DS Construction
-Constructions of various Algoritms & Data Structures
+Constructions of various Algorithms & Data Structures
